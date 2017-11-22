@@ -26,8 +26,8 @@
 ![Markdown](http://i1.bvimg.com/617453/64e111d5d605fbb7.png)
 
 #### 实验效果
-
-![Markdown](http://i1.bvimg.com/617453/c57e4219cd8329f4.png)
+![Markdown](http://i2.bvimg.com/617453/186e120d219341f2.png)
+![Markdown](http://i2.bvimg.com/617453/fe63d2da605bc349.png)
 
 ### 通过js添加了Wechat
 
@@ -35,7 +35,8 @@
 - ### 提交表单，并输出一个表格
 
 #### 提交表单
-![Markdown](http://i1.bvimg.com/617453/51203a265151f610.png)
+![Markdown](http://i2.bvimg.com/617453/7a5320acec229ffc.png)
+![Markdown](http://i2.bvimg.com/617453/4aa5b3ecbfc4d917.png)
 
 
 #### 输出表格
